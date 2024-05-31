@@ -9,9 +9,10 @@ import {
   nodejs,
   mongodb,
   git,
-  figma,
+  graphql,
   docker,
-  threejs,
+  redis,
+  django,
 } from "../app/assets";
 
 export const navItems = [
@@ -270,16 +271,20 @@ export const technologies = [
     icon: mongodb,
   },
   {
-    name: "Three JS",
-    icon: threejs,
+    name: "Redis",
+    icon: redis,
+  },
+  {
+    name: "Django",
+    icon: django,
   },
   {
     name: "git",
     icon: git,
   },
   {
-    name: "figma",
-    icon: figma,
+    name: "graphql",
+    icon: graphql,
   },
   {
     name: "docker",

@@ -14,12 +14,15 @@ import git from "./tech/git.png";
 import html from "./tech/html.png";
 import javascript from "./tech/javascript.png";
 import mongodb from "./tech/mongodb.png";
+import redis from "./tech/redis.png";
+import django from "./tech/django.png";
 import nodejs from "./tech/nodejs.png";
 import reactjs from "./tech/reactjs.png";
 import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import graphql from "./tech/graphql.png";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -42,6 +45,8 @@ export {
   css,
   docker,
   figma,
+  graphql,
+  redis,
   git,
   html,
   javascript,
@@ -52,6 +57,7 @@ export {
   tailwind,
   typescript,
   threejs,
+  django,
   meta,
   shopify,
   starbucks,
